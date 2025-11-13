@@ -73,6 +73,5 @@ Developing custom, mission-critical training (covering language, culture, and bu
 
 
 # Licensing and Usage Disclaimer
-This portfolio concerns proprietary work and is intended for informational and demonstrative purposes only. No proprietary content related to the e-Learning courses or code are included in this repository.
-This project and its contents are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
-In summary, You are free to share this document, but you may not adapt, modify, or use the content for commercial purposes.
+This portfolio concerns proprietary work and is intended for informational and demonstrative purposes only. No proprietary content related to the e-Learning courses or code are included in this repository. This project and its contents are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).<br><br>
+In summary, you are free to share this document, but you may not adapt, modify, or use the content for commercial purposes.
