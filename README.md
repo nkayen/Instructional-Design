@@ -1,12 +1,12 @@
 # Instructional-Design
-This repository showcases the process and application of some of my work in Learning & Development (L&D), Instructional Design (ID), and curriculum development from 2008 until the present.
+This repository showcases the process and application of some of my work in Learning & Development (L&D), Instructional Design (ID), and curriculum development from 2005 until the present (2025).
 
 My projects emphasized scalable, measurable, and standardized learning solutions, demonstrating proficiency in both the agile Successive Approximation Model (SAM) and the foundational ADDIE Model.
 
 Original work or content cannot be shared due to the confidential nature of the content. 
 <div>&nbsp;</div>
 
-## 1. PRIMARY CASE STUDY: Scalable L&D Strategy & Content Governance (6 years)
+## 1. PRIMARY CASE STUDY: Scalable L&D Strategy & Content Governance (2019-2025 6 years)
 **Scope:** Senior Technical Writer, Senior Learning & Development Strategist, Content Governance Lead for NTT DATA <br>
 **Description:** Led L&D transformation as the organization scaled rapidly (from 300 to 17,000+ employees) through mergers & aquisitions, requiring a unified, standardized training and knowledge infrastructure.<br>
 **Model:**: SAM and ADDIE
@@ -42,7 +42,7 @@ B. SAM Phase 2 & 3: Iterative Development and Governance <br>
 * Led the resolution of a high-priority vendor portal access issue, successfully restoring access for 3.000 daily users and enabling 1.500 new user onboardings.<br>
 <div>&nbsp;</div>
 
-## 2. SUPPORTING CASE STUDY: E-Learning Platform Development (1 year) <br>
+## 2. SUPPORTING CASE STUDY: E-Learning Platform Development (2008 1 year) <br>
 **Scope:** Instructional Designer for Interskill Learning and Freelance, in Beijing (CN) and London (UK)<br>
 **Description:** E-Learning content creation for online platforms serving diverse, highly regulated clients (leading UK banks, government agencies, and large retailers).<br>
 **Model:** ADDIE
@@ -56,7 +56,7 @@ Rapidly develop engaging, platform-specific e-Learning modules for clients in hi
 * Integrated graphic design and creative solutions to deliver professional, user-friendly training modules on fixed client platforms.
 <div>&nbsp;</div>
 
-## 3. SUPPORTING CASE STUDY: Bespoke Cultural Training & Curriculum (2 years)
+## 3. SUPPORTING CASE STUDY: Bespoke Cultural Training & Curriculum (2005-2008 3 years)
 **Scope:** Corporate Language & Culture Trainer, Translator for Executive Communications and Freelance, in Beijing (CN) <br>
 **Description:** Designed and facilitated custom B2B language and cultural training programs for multinationals in Media, Manufacturing, and Technology.<br>
 **Model:** ADDIE
@@ -74,4 +74,4 @@ Developing custom, mission-critical training (covering language, culture, and bu
 
 # Licensing and Usage Disclaimer
 This portfolio concerns proprietary work and is intended for informational and demonstrative purposes only. No proprietary content related to the e-Learning courses or code are included in this repository. This project and its contents are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).<br><br>
-In summary, you are free to share this document, but you may not adapt, modify, or use the content for commercial purposes.
+In summary, you are free to share this document, but you may not adapt, modify, or use the content for commercial nor (AI) training purposes.
